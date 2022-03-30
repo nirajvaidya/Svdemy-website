@@ -1,0 +1,83 @@
+{
+  "register": [
+    {
+      "id": 1,
+      "name": "akash",
+      "email": "a@gmail.com",
+      "phone": "9999999999",
+      "designation": "Excel",
+      "file": "22-3-2021"
+    },
+    {
+      "name": "Rohit Godse",
+      "email": "rohitgodase3@gmail.com",
+      "phone": "07620 001016",
+      "designation": "Excel",
+      "file": "2022-03-30",
+      "id": 2
+    },
+    {
+      "name": "niraj",
+      "email": "n@gmail.com",
+      "phone": "876876756",
+      "designation": "Excel",
+      "file": "2022-03-30",
+      "id": 3
+    },
+    {
+      "id": 4
+    },
+    {
+      "name": "sads",
+      "email": "nn@gmail.com",
+      "phone": "8764733455",
+      "designation": "Excel",
+      "file": "2022-03-30",
+      "id": 5
+    },
+    {
+      "id": 6
+    },
+    {
+      "name": "Rohit Godse",
+      "email": "rohitgodase3@gmail.com",
+      "phone": "07620 001016",
+      "designation": "Excel",
+      "file": "2022-03-30",
+      "id": 7
+    },
+    {
+      "name": "sdfds",
+      "email": "ggg@gmail.com",
+      "phone": "34243534534",
+      "designation": "Excel",
+      "file": "2022-03-22",
+      "": "Excel",
+      "id": 8
+    },
+    {
+      "name": "dsfdsf",
+      "email": "h@gmail.com",
+      "phone": "7675767t876",
+      "designation": "Excel",
+      "file": "2022-03-30",
+      "id": 9
+    },
+    {
+      "name": "sdsdf",
+      "email": "ne@gmail.com",
+      "phone": "9889898888",
+      "designation": "Excel",
+      "file": "2022-03-30",
+      "id": 10
+    },
+    {
+      "name": "qwewqerzx",
+      "email": "dsds@gmail.com",
+      "phone": "8988889983",
+      "designation": "Excel",
+      "file": "2022-03-30",
+      "id": 11
+    }
+  ]
+}
