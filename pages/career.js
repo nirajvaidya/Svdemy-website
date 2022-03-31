@@ -137,9 +137,9 @@ export default function Career() {
               </form>
             </div>
             <p className="u-text u-text-grey-50 u-text-3">
-              It's easy to register for the course, just fill out the form and click submit. Then you will be registered for one of the best EXCEL training courses in the industry
+              Its easy to register for the course, just fill out the form and click submit. Then you will be registered for one of the best EXCEL training courses in the industry
               Your information is required to complete the registration
-              It's safe with us and will not be used for marketing.
+              Its safe with us and will not be used for marketing.
             </p>
             <span className="u-icon u-icon-circle u-text-palette-1-base u-icon-2">
               

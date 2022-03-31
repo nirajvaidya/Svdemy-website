@@ -1,6 +1,11 @@
 {
   "/_app": "pages/_app.js",
+  "/api/hello": "pages/api/hello.js",
+  "/api/sendgrid": "pages/api/sendgrid.js",
+  "/career": "pages/career.html",
+  "/database": "pages/database.html",
+  "/": "pages/index.html",
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
-  "/database": "pages/database.js"
+  "/404": "pages/404.html"
 }

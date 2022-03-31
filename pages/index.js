@@ -78,9 +78,9 @@ export default function Home() {
                           About
                         </h3>
                         <p className="u-text u-text-palette-5-dark-2 u-text-4">
-                        I’m Sanjana Your Trainer,
+                        Im Sanjana Your Trainer,
                         Hi everybody! I am Sanjana and I will be your main instructor durnig the Excel training course. 
-                        I have more than 2 years experience in Excel and I am very passionate about this field. Register for the course and let's meet.
+                        I have more than 2 years experience in Excel and I am very passionate about this field. Register for the course and lets meet.
                         Teaching students all about the beste Excel techniques is something I love to do as a full-time job.
                         </p>
                       </div>
@@ -132,7 +132,7 @@ export default function Home() {
                           Explore
                         </h3>
                         <p className="u-align-center u-text u-text-palette-5-dark-2 u-text-10">
-                        Do you feel like you're doing a lot of guess work when it comes to Exel? Take the Exel training course to change that
+                        Do you feel like you are doing a lot of guess work when it comes to Exel? Take the Exel training course to change that
                         </p>
                       </div>
                     </div>
@@ -174,7 +174,7 @@ export default function Home() {
                       We believe that an open work culture can bring in
                       transparency, boost innovation, and develop empathy for
                       every professional. Our open work culture helps us truly
-                      harness every individual’s potential and skills.
+                      harness every individuals potential and skills.
                       <br />
                     </p>
                   </div>

@@ -183,7 +183,7 @@ export default function Database() {
                       We believe that an open work culture can bring in
                       transparency, boost innovation, and develop empathy for
                       every professional. Our open work culture helps us truly
-                      harness every individual’s potential and skills.
+                      harness every individuals potential and skills.
                       <br />
                     </p>
                   </div>
