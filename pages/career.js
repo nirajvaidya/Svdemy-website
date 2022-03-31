@@ -20,7 +20,6 @@ export default function Career() {
     console.log({ value });
     setFormDetails({...formDetails, [name]:value})
   }
-console.log("formDetails", formDetails);
   const handleSubmit = (e) => {
     e.preventDefault();
     try {
@@ -54,7 +53,7 @@ console.log("formDetails", formDetails);
         <div className="u-align-center-sm u-align-center-xs u-container-style u-group u-radius-33 u-shape-round u-white u-group-1">
           <div className="u-container-layout u-container-layout-1">
             <h2 className="u-text u-text-palette-2-base u-text-1">Register Form</h2>
-            <h2 className="u-text u-text-default u-text-2"> Need More?</h2>
+            <h2 className="u-text u-text-default u-text-2">Register</h2>
             <div className="u-form u-form-1">
               <form
                 className="u-clearfix u-form-spacing-15 u-form-vertical u-inner-form"
@@ -116,10 +115,6 @@ console.log("formDetails", formDetails);
                       </option>
                     </select>
                 </div>
-                {/* <div className="u-form-group u-form-group-4">
-                  <input type="file" id="myFile" name="filename" onChange={(e) => handleOnChange('file', e.target.value)}/>
-                </div> */}
-
                 <div className="u-form-group u-form-group-4">
                   <input type="date" id="myFile" name="file" value={formDetails.file} onChange={(e) => handleOnChange(e)} required/>
                 </div>
@@ -142,9 +137,9 @@ console.log("formDetails", formDetails);
               </form>
             </div>
             <p className="u-text u-text-grey-50 u-text-3">
-              {" "}
-              At Softwill, we share a mindset that dictates our company culture
-              and hiring criteria.
+              It's easy to register for the course, just fill out the form and click submit. Then you will be registered for one of the best EXCEL training courses in the industry
+              Your information is required to complete the registration
+              It's safe with us and will not be used for marketing.
             </p>
             <span className="u-icon u-icon-circle u-text-palette-1-base u-icon-2">
               

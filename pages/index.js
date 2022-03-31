@@ -2,16 +2,10 @@ import Head from "next/head";
 import Image from "next/image";
 import { toast } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
-import styles from "../styles/Home.module.css";
-import image1 from "../public/image1.svg";
 import image2 from "../public/image2.png";
 import image5 from "../public/image3.png";
-import image4 from "../public/image4.svg";
 import image3 from "../public/image5.png";
-import image6 from "../public/image6.svg";
 import image7 from "../public/image7.png";
-import image8 from "../public/image8.svg";
-import Link from "next/link";
 import Header from "../components/header";
 import Footer from "../components/footer";
 
@@ -27,7 +21,6 @@ export default function Home() {
       <Head>
         <title>Svdemy | Home</title>
         <meta name="description" content="Softwill technologies pvt lmt" />
-        {/* <link rel="icon" href="/s.png" /> */}
       </Head>
       <Header page="Register" route="/career"/>
       <section
@@ -59,13 +52,9 @@ export default function Home() {
           <div className="u-align-center-xs u-align-left-lg u-align-left-md u-align-left-sm u-align-left-xl u-container-style u-expanded-width-md u-expanded-width-sm u-expanded-width-xs u-group u-shape-rectangle u-group-1">
             <div className="u-container-layout u-container-layout-1">
               <h1 className="u-align-center u-text u-text-palette-2-base u-text-1">
-                Design, Build &amp; Grow your business with
+                Design, Build &amp; Grow your knowledge with
                 <br />
-                <span className="u-text-palette-1-base">Website</span>
-                <br />
-                &amp;&nbsp; &nbsp;
-                <br />
-                <span className="u-text-palette-1-base">Application</span>
+                <span className="u-text-palette-1-base">this courses</span>
               </h1>
               <p className="u-text u-text-2">
                 {" "}
@@ -86,13 +75,13 @@ export default function Home() {
                           <Image src={image2} alt="image" />
                         </span>
                         <h3 className="u-text u-text-default u-text-palette-1-base u-text-3">
-                          Website
+                          About
                         </h3>
                         <p className="u-text u-text-palette-5-dark-2 u-text-4">
-                          We have different web technology resources like
-                          AngularJS, ReactJS, HTML, CSS, WordPress and Mogento.
-                          <br />
-                          We used NodeJS and Java for backend development
+                        I’m Sanjana Your Trainer,
+                        Hi everybody! I am Sanjana and I will be your main instructor durnig the Excel training course. 
+                        I have more than 2 years experience in Excel and I am very passionate about this field. Register for the course and let's meet.
+                        Teaching students all about the beste Excel techniques is something I love to do as a full-time job.
                         </p>
                       </div>
                     </div>
@@ -102,15 +91,15 @@ export default function Home() {
                         <Image src={image3} alt="image3" />
                         </span>
                         <h3 className="u-align-center u-text u-text-default u-text-palette-1-base u-text-5">
-                          Server
+                        Add value
                         </h3>
                         <p className="u-align-center u-text u-text-palette-5-dark-2 u-text-6">
-                          Deploy your projects on the different server&nbsp;
-                          <br />
-                          AWS, Digital Ocean, Godaddy, etc.
-                          <br />
-                          Softwill provides multiple server services and server
-                          maintainance to customers
+                        <p>o Hand holding lectures.</p>
+                        <p>o Become a pro in excel.</p>
+                        <p>o Save your time upto 2 hours.</p>
+                        <p>o Get supported for 1 month.</p>
+                        <p>o Get automatic index creating tool</p>
+                        <p>o Get formula book.</p>
                         </p>
                       </div>
                     </div>
@@ -124,11 +113,13 @@ export default function Home() {
                         <Image src={image5} alt="image5" />
                         </span>
                         <h3 className="u-text u-text-default u-text-palette-1-base u-text-7">
-                          Mobile Application
+                        Advance Excel
                         </h3>
                         <p className="u-text u-text-palette-5-dark-2 u-text-8">
-                          Build your mobile application with Android, iOS, React
-                          Native and Flutter.
+                        <p> o Learn basic to advance formulas from scratch.</p>
+                        <p> o Understanding when to use what formula.</p>
+                        <p> o Learn about references and types of references.</p>
+                        <p> o Criteria based aggregations.</p>
                         </p>
                       </div>
                     </div>
@@ -138,12 +129,10 @@ export default function Home() {
                         <Image src={image7} alt="image7" />
                         </span>
                         <h3 className="u-align-center u-text u-text-default u-text-palette-1-base u-text-9">
-                          Redesign &amp; Maintainance
+                          Explore
                         </h3>
                         <p className="u-align-center u-text u-text-palette-5-dark-2 u-text-10">
-                          Softwill offers redesign and maintainance services and
-                          We make sure that your website is updated as well as
-                          up-to-datet&nbsp;
+                        Do you feel like you're doing a lot of guess work when it comes to Exel? Take the Exel training course to change that
                         </p>
                       </div>
                     </div>
@@ -174,7 +163,7 @@ export default function Home() {
                       <strong> We are the change</strong> <br /><br />
                       To transform the india educational system into the digital world.
                       <br /><br />
-                      The softwill family believes in action, progress, and
+                      The Svdemy family believes in action, progress, and
                       growth. The young startup has achieved several milestones
                       in its active years till now, but nothing keeps us from
                       seeking more and more.&nbsp;
